@@ -2,6 +2,8 @@
 
 **An interactive logistics decision support system for cost optimization, delay root-cause analysis, and scenario-based operational planning.**
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://logistics-intelligence-optimization-platform-bp8oraszptyggvrz2.streamlit.app/)
+
 **AI-Driven Decision Support System for Cost, Delay & Route Optimization**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
